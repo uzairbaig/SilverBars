@@ -1,3 +1,3 @@
-To the program
+To run the program
 
 mvn clean verify
